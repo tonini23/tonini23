@@ -2,7 +2,7 @@
 
 🎓 Computer Systems @ University of Bologna @ Cesena
 
-💼 University Internship @ FST @ Cattilica
+💼 University Internship @ FST @ Cattolica
 
 🏠 Sometimes Rimini, sometimes Ravenna
 
