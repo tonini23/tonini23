@@ -1,8 +1,10 @@
 # Hi there 👋 I'm Andrea Tonini
 
-🎓 IT Student @ University of Bologna
+🎓 Computer Systems @ University of Bologna @ Cesena
 
-💼 University Internship @ FST
+💼 University Internship @ FST @ Cattilica
+
+🏠 Sometimes Rimini, sometimes Ravenna
 
 ⚙️ Building web applications with ASP.NET Core, React and SQL
 
