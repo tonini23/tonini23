@@ -68,6 +68,20 @@ Analysis of Brawlhalla legends data using notebooks and data analysis tools in P
 
 ---
 
+![Italy](https://img.shields.io/badge/Based%20in-Italy-green?style=for-the-badge&logo=italia)
+![Location](https://img.shields.io/badge/RootsFrom-Albania-red?style=for-the-badge)
+![WorkedIn](https://img.shields.io/badge/Worked%20in-SanMarino-white?style=for-the-badge&logo=sanmarino)
+
+
+<p align="center">
+  <img src="https://flagcdn.com/w320/it.png" width="120"/>
+  <img src="https://flagcdn.com/w320/al.png" width="120"/>
+</p>
+
+<h1 align="center">Andrea Tonini</h1>
+
+<h3 align="center">Full Stack Developer 🇮🇹</h3>
+
 ⭐ Always open to collaboration and new projects!
 <!--
 **tonini23/tonini23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
