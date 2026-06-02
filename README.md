@@ -38,26 +38,25 @@
 ## 📌 University Projects
 
 ### 📚 UniBo Tutoring
-Platform for university students to offer/request tutoring with CFU recognition.
+Platform for university students to offer/request tutoring with CFU recognition in JavaFX.
 
 ### 📱 MoodMate
 Mobile systems programming project developed in Kotlin.
 
 ### 📊 Big Data Project
-Analysis of Brawlhalla legends data using notebooks and data analysis tools.
+Analysis of Brawlhalla legends data using notebooks and data analysis tools in Panda (Python)
 
 ---
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tonini23&theme=github-dark-blue)](https://git.io/streak-stats)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tonini23&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tonini23&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tonini23&theme=github-dark-blue)](https://git.io/streak-stats)
 
 ---
 
