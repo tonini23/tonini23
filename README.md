@@ -50,9 +50,8 @@ Analysis of Brawlhalla legends data using notebooks and data analysis tools.
 
 ## 📈 GitHub Stats
 
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonini23&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonini23&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tonini23&theme=github-dark-blue)](https://git.io/streak-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tonini23&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
