@@ -65,7 +65,7 @@ Analysis of Brawlhalla legends data using notebooks and data analysis tools in P
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tonini23&theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tonini23)](https://git.io/streak-stats)
 
 ---
 
