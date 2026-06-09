@@ -50,10 +50,10 @@
 Platform for university students to offer/request tutoring with CFU recognition in JavaFX.
 
 ### 📱 MoodMate
-Mobile systems programming project developed in Kotlin.
+Mobile systems programming project developed in Kotlin. 26/30
 
-### 📊 Big Data Project
-Analysis of Brawlhalla legends data using notebooks and data analysis tools in Panda (Python)
+### 📊 BrawlData
+Big data exam: Analysis of Brawlhalla legends data using notebooks and data analysis tools in Panda (Python). 26/30
 
 ---
 
