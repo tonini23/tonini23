@@ -69,7 +69,7 @@ Big data exam: Analysis of Brawlhalla legends data using notebooks and data anal
 
 ---
 ## 🔥 GitHub Most Used Language (Not so accurate now, only count commit in my repository or Kotlin, Vue and Java would be the highest
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonini23&langs_count=8)
 
 ## 🌐 Connect with me
 
