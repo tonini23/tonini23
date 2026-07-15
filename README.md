@@ -91,7 +91,7 @@ Big data exam: Analysis of Brawlhalla legends data using notebooks and data anal
 
 <h1 align="center">Andrea Tonini</h1>
 
-<h3 align="center">Full Stack Developer 🇮🇹</h3>
+<h3 align="center">El psy kongroo</h3>
 
 ⭐ Always open to collaboration and new projects!
 <!--
