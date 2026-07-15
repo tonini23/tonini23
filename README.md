@@ -6,9 +6,7 @@
 
 🏠 Sometimes Rimini, sometimes Ravenna
 
-⚙️ Building web applications with ASP.NET Core, React and SQL
-
-🚀 Interested in Backend Development, Software Architecture and Full Stack Applications
+🚀 Interested in Backend Development, Software Architecture and Mobile Applications
 
 ---
 
