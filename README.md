@@ -93,6 +93,8 @@ Big data exam: Analysis of Brawlhalla legends data using notebooks and data anal
 
 <h3 align="center">El psy kongroo</h3>
 
+<h6 align="center">My favourite LLM is <bold>GPT</bold> (Great Programmer Tonini) </h6>
+
 ⭐ Always open to collaboration and new projects!
 <!--
 **tonini23/tonini23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
