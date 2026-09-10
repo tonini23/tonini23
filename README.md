@@ -55,12 +55,6 @@ Big data exam: Analysis of Brawlhalla legends data using notebooks and data anal
 
 ---
 
-## 📈 GitHub Stats
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tonini23&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tonini23)](https://git.io/streak-stats)
