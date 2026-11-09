@@ -4,8 +4,9 @@
 
 💼 University Internship @ FST @ Cattolica
 
-🏠 In the province of Rimini
-🚀 Interested in Backend Development, Software Architecture and Mobile Applications
+🏠 Province of Rimini
+
+🚀 Interested in Backend Development, Software Architecture, 3D modeling and Mobile Applications
 
 ---
 
